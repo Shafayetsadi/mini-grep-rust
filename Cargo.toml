@@ -1,0 +1,10 @@
+[package]
+name = "grep_rust_simple"
+authors = ["Shafayet Sadi"]
+version = "0.1.0"
+edition = "2021"
+description = "A simple grep implementation in Rust"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]

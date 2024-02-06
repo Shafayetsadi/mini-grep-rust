@@ -1,0 +1,5 @@
+/target
+.idea
+rockbands.txt
+symbols.txt
+cargo.lock
