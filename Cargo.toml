@@ -1,5 +1,5 @@
 [package]
-name = "grep_rust_simple"
+name = "minigrep"
 authors = ["Shafayet Sadi"]
 version = "0.1.0"
 edition = "2021"
